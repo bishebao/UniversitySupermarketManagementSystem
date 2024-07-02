@@ -1,0 +1,2 @@
+# UniversitySupermarketManagementSystem
+ 基于SpringBoot Vue高校超市管理系统
